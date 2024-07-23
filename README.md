@@ -20,5 +20,7 @@ Após o arquivo movido para a nova pasta do .kaggle
 
 
 
-
+## Venv (Ambiente virtual)
+ - python -m venv .venv
+ - source .venv/Scripts/Activate
 
