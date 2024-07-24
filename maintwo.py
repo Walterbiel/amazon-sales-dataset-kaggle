@@ -8,6 +8,6 @@ df = pd.read_csv(r'C:\Users\walte\Documents\Aquivos_Walter\Universidade dos dado
 
 lista = [1,2,3,4,5,6,7,8,9]
 
-df.head()
+print(df)
 
 df.to_csv(r'C:\Users\walte\Documents\Aquivos_Walter\amazonteste.csv')
